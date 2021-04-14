@@ -9,4 +9,3 @@
   * Run `npm install` to install dependencies
   * Run `npm start` to launch the app
   
-  The image provided by the development team for the cinnamon recipe wasn't loading as expected. This image was then added using static files. 
